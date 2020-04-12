@@ -1,1 +1,1 @@
-# ML-basics-with-Keras
+Image Classification on Fashion MNIST dataset 
